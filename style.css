@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.myMargin{
+    margin: 50px;
+}
+body{
+    background-size: cover;
+}
